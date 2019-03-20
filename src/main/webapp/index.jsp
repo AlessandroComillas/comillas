@@ -11,7 +11,7 @@
 <hr />
 <p>Opciones de la base Cloudant de Alessandro Pollacci:</p>
 <ul>
-<li><a href="listar">Listar todos  </a></li>
+<li><a href="listar">Listar todos todos  </a></li>
 <li><a href="insertar?palabra=Alessandro">Insertar</a></li>
 </ul>
 </body>
