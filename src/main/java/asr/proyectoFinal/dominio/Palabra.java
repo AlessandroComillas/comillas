@@ -23,9 +23,11 @@ public class Palabra {
 	private String _id;
 	private String _rev;
 	private String name = null;
+	private String psw = null;
 
 	public Palabra() {
 		this.name = "";
+		this.psw = "";
 	}
 
 	/**
@@ -74,6 +76,10 @@ public class Palabra {
 	public String getName() {
 		return name;
 	}
+	
+	public String getPassword() {
+		return psw;
+	}
 
 	/**
 	 * Sets the name
@@ -83,6 +89,10 @@ public class Palabra {
 	 */
 	public void setName(String visitorName) {
 		this.name = visitorName;
+	}
+	
+	public void setPassword(String visitorPassword) {
+		this.psw = visitorPassword;
 	}
 	
 	@Override

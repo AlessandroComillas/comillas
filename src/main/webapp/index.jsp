@@ -4,15 +4,16 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Proyecto ASR</title>
+<title>Proyecto ASR new...</title>
 </head>
 <body>
 <h1>Ejemplo de Proyecto de ASR con Cloudant ahora con DevOps</h1>
 <hr />
-<p>Opciones de la base Cloudant de Alessandro Pollacci:</p>
+<p>traductor:</p>
 <ul>
-<li><a href="listar">Listar todos todos  </a></li>
-<li><a href="insertar?palabra=Alessandro">Insertar</a></li>
+<li><a href="listar">Listar</a></li>
+<li><a href="insertar?palabra=hola, soy alessandro. buenos dias!!">Insertar</a></li>
+<li><a href="nlu">Natural language understanding</a></li>
 </ul>
 </body>
-</html>  
+</html>
